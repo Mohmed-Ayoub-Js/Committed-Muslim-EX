@@ -8,6 +8,5 @@ Download the following files in the repo and then open any code editor in your d
 Well, in this case we need a browser, for me I will use firefox for windows 10 os, 
 And I will write in the search box: 
 ```
-# The search word you should type in the browser Firefox
 $ about:debugging
 ```
